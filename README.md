@@ -20,4 +20,5 @@ Activity file, Activity Summary file, Respondent file, Well-Being module (multip
 2) PSID_WB_analysis_by_sex.R: analysis of PSID and extraction of well-being scores by sex of caregiver
 3) ATUS_PSID_pos_neg_ratios_by_sex.R: calculation of well-being indices and ratios for informal care activities by sex of caregiver
 4) WB_projections_by_sex.R: projection of positively and negatively weighted aggregate informal care supply to year 2010 (CSR ratios)
-5) ATUS_PSID_plots.R: oranizing and plotting the results
+5) WB_projections_by_sex_caregivers.R: projection of positively and negatively weighted aggregate informal care supply to year 2010 (CSR ratios), conditional on caregiving status
+6) ATUS_PSID_plots.R: oranizing and plotting the results
